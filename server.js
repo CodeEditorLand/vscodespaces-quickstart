@@ -3,17 +3,17 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-"use strict";
+'use strict';
 
-var express = require("express");
+var express = require('express');
 
 // Variables
 var PORT = 3000;
-var HOST = "localhost";
+var HOST = 'localhost';
 
 // App
 var app = express();
-app.get("/", (req, res) => {
+app.get('/', (req, res) => {
 	res.send(`Hello world from VS Codespaces\n`);
 });
 
