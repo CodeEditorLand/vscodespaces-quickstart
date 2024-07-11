@@ -1,9 +1,0 @@
-{
-	"name": "docker_web_app",
-	"description": "Node.js on Docker",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {}
-}

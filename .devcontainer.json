@@ -1,6 +1,0 @@
-{
-    "name": "VS Codespaces Quickstart Sample",
-    "extensions": [
-        "dbaeumer.vscode-eslint"
-    ]
-}
