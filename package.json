@@ -1,9 +1,0 @@
-{
-	"dependencies": {},
-	"description": "Node.js on Docker",
-	"main": "server.js",
-	"name": "land-spaces-quick-start-docker_web_app",
-	"scripts": {
-		"start": "node server.js"
-	}
-}
