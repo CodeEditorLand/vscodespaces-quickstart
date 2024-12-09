@@ -1,6 +1,7 @@
 {
 	"dependencies": {},
 	"description": "Node.js on Docker",
+	"devDependencies": {},
 	"main": "server.js",
 	"name": "docker_web_app",
 	"scripts": {
